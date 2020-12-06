@@ -218,17 +218,18 @@ body {
 }
 
 .container .social > div {
-  width: 2.4em;
-  height: 2.4em;
+  width: 2.2em;
+  height: 2.23em;
   display: inline-block;
-  border: 2px solid white;
+  border: 1px solid white;
   border-radius: 50%;
-  padding: 0.4em;
+  padding: 0.5em;
+  margin-left: 10px;
 }
 
 .container .social > div > i {
   display: block;
-  font-size: 1.3em;
+  font-size: 1em;
   text-align: center;
   color: white;
 }
